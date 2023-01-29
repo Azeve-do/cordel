@@ -95,3 +95,17 @@ footer > a {
 footer > a:hover {
     text-decoration: underline;
 }
+
+.video {
+    background-color: #ffffff;
+    margin: 1px 1px 1px 150px;
+    padding: 20px;
+    position: relative;
+    display: block;
+    height: 400px;
+    width: 400px;
+}
+
+p#leitura {
+    margin: 0px 0px 0px 25px;
+}
