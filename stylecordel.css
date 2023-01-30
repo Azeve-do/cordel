@@ -98,7 +98,7 @@ footer > a:hover {
 
 .video {
     background-color: #ffffff;
-    margin: auto;
+    margin: 0px 0px 0px 425px;
     padding: 20px;
     position: relative;
     display: block;
@@ -108,4 +108,5 @@ footer > a:hover {
 
 p#leitura {
     margin: 0px 0px 0px 25px;
+    text-align: center;
 }
