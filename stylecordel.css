@@ -50,7 +50,7 @@ p {
 }
 
 div#imagem1 {
-    background: #ffffff url('imagens/background001.jpg') center top/cover no-repeat fixed;
+    background: #ffffff url('imagens/background001.jpg') right center/cover no-repeat fixed;
     color: #ffffff;
     height: 450px;
     }
@@ -64,7 +64,7 @@ div > p {
 }
 
 div#imagem2 {
-    background: #ffffff url(imagens/background002.jpg) center top/ cover no-repeat fixed;
+    background: #ffffff url(imagens/background002.jpg) right center/ cover no-repeat fixed;
     color: #ffffff;
     height: 450px;
 }
